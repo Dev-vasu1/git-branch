@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=0.0i" />
+  <meta name="viewport" content="width=device-width, initial-scale=2.00" />
   <title>Sample HTML Page</title>
 
   <style>
